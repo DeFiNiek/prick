@@ -39,7 +39,7 @@ function App() {
         <ul className="flex justify-center gap-10 pt-8 flex-col px-5 md:pt-12 md:flex-row">
           <li>
             <a
-              href="https://t.me/PickleRickSol"
+              href="https://t.me/pricksol"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-[#43fe2e] shadow-btn rounded-xl text-black flex items-center px-5 py-3 gap-2 text-sm"
@@ -56,7 +56,7 @@ function App() {
           </li>
           <li>
             <a
-              href="https://t.me/PickleRickSol"
+              href="https://t.me/pricksol"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-[#43fe2e] shadow-btn rounded-xl text-black flex items-center px-5 py-3 gap-2 text-sm"
@@ -197,7 +197,7 @@ function App() {
             <ul className="flex gap-8 mt-5 flex-col md:flex-row">
               <li>
                 <a
-                  href="https://t.me/PickleRickSol"
+                  href="https://t.me/pricksol"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="bg-[#43fe2e] shadow-btn rounded-xl text-black flex items-center px-3 py-3 gap-2 text-sm"

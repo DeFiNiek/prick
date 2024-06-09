@@ -56,7 +56,7 @@ function App() {
           </li>
           <li>
             <a
-              href="https://twitter.com/PickleRickSolX"
+              href="https://t.me/PickleRickSol"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-[#43fe2e] shadow-btn rounded-xl text-black flex items-center px-5 py-3 gap-2 text-sm"
@@ -214,7 +214,7 @@ function App() {
               </li>
               <li>
                 <a
-                  href="https://twitter.com/PickleRickSolX"
+                  href="https://x.com/PrickOnSolX"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="bg-[#43fe2e] shadow-btn rounded-xl text-black flex items-center px-3 py-3 gap-2 text-sm"

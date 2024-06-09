@@ -153,7 +153,7 @@ function App() {
                   <div className="w-full lg:max-w-xl">
                     <h4 className="text-xl">
                       <span className="text-[#43fe2e]">Total Supply:</span>{" "}
-                      100,000,000
+                      100,000,000,000
                     </h4>
                     <p className="font-thin pt-5">
                       Tax 0-0 <br /> Liquidity: 100% Burnt

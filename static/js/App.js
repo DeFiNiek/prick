@@ -90,7 +90,7 @@ function App() {
           <p className="text-center py-10 w-full">
             Smart contract:{" "}
             <span className="text-[#43fe2e] ca">
-              0x00000000000000000000000000000
+              GRzbvtvDXXaMYQodH6Pc9rFHam24p1jjE9t9u6Zspump
             </span>
           </p>
         </div>
